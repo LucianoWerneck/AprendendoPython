@@ -1,3 +1,4 @@
+'''Media e presença do Aluno'''
 nome = str(input('Nome do aluno: '))
 nota1 = float(input('Nota 1ª Prova: '))
 nota2 = float(input('Nota 2ª Prova: '))
