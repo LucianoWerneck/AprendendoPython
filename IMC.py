@@ -75,4 +75,4 @@ while valid_altura == False:
 
 v_imc = imc(peso, altura)
 c_imc = class_imc(sexo, peso, altura)
-print(f'Seu IMC é : {"%.2f" % v_imc} e sua classificação é : {c_imc} ')
+print(f'Seu IMC é : {"%.2f" % v_imc} a classificação é : {c_imc} ')
